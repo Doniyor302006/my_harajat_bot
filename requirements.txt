@@ -1,5 +1,0 @@
-aiogram
-pandas
-requests
-matplotlib
-openpyxl
